@@ -1,0 +1,52 @@
+body{
+    background-image: url(images/todo-list-seamless-pattern-universal-background-66678083.jpg);
+    background-attachment: fixed;
+    text-align: center;
+}
+.btn{
+  background-color: blue;
+  border: 1px solid black;
+  color: black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.btn :hover{
+    color: red;
+}
+.list{
+    text-align: center;
+    
+}
+ul li {
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    padding-top: 20px;
+    margin: 20px;
+}
+.heading{
+    text-align: center;
+    padding: 10px;
+}
+.styling{
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+}
+.heading h1{
+color: blue;
+font-weight: bold;
+font-family: monospace;
+}
+.todo-item{
+    border-radius: 20px;
+    border: none;
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+    height: 20px;
+    width: 200px;
+}
